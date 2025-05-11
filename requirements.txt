@@ -3,4 +3,3 @@ langchain
 langchain-community
 langchain-groq
 wikipedia
-langchain-chains
